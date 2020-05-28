@@ -21,8 +21,8 @@ body {
 .header-wrapper {
    padding-top: 30px;
    background: url(../images/bg.jpg) no-repeat top center / cover;
-   min-height: 976px;
-   height: 100%;
+   /* min-height: 976px; */
+   height: 100vh;
 }
 .header__image img {
    width: 100%;
@@ -64,6 +64,9 @@ body {
       padding: 20px 0;
    }
    .header-body__item img {
-      max-width: 200px;
+      max-width: 170px;
+   }
+   .header-wrapper {
+      padding: 15px;
    }
 }
