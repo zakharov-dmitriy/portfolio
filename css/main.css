@@ -20,7 +20,7 @@ body {
 }
 .header-wrapper {
    padding-top: 30px;
-   background: url(../images/bg.jpg) no-repeat top center / cover;
+   /* background: url(../images/bg.jpg) no-repeat top center / cover; */
    /* min-height: 976px; */
    height: 100vh;
    min-height: 700px;
